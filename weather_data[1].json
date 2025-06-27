@@ -1,0 +1,272 @@
+[
+  {
+    "Date": "2025-04-02",
+    "City": "SampleCity",
+    "Temperature_C": 17.1894,
+    "Humidity_Percent": 38,
+    "Wind_Speed_kmh": 6.8968,
+    "Precipitation_mm": 13.062,
+    "Weather_Condition": "Cloudy"
+  },
+  {
+    "Date": "2025-04-01",
+    "City": "SampleCity",
+    "Temperature_C": 29.7076,
+    "Humidity_Percent": 48,
+    "Wind_Speed_kmh": 12.6794,
+    "Precipitation_mm": 6.8703,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-31",
+    "City": "SampleCity",
+    "Temperature_C": 20.2244,
+    "Humidity_Percent": 65,
+    "Wind_Speed_kmh": 10.4877,
+    "Precipitation_mm": 13.1352,
+    "Weather_Condition": "Snowy"
+  },
+  {
+    "Date": "2025-03-30",
+    "City": "SampleCity",
+    "Temperature_C": 32.0754,
+    "Humidity_Percent": 43,
+    "Wind_Speed_kmh": 21.2928,
+    "Precipitation_mm": 6.4075,
+    "Weather_Condition": "Snowy"
+  },
+  {
+    "Date": "2025-03-29",
+    "City": "SampleCity",
+    "Temperature_C": 33.5117,
+    "Humidity_Percent": 46,
+    "Wind_Speed_kmh": 13.9703,
+    "Precipitation_mm": 3.7538,
+    "Weather_Condition": "Cloudy"
+  },
+  {
+    "Date": "2025-03-28",
+    "City": "SampleCity",
+    "Temperature_C": 11.1389,
+    "Humidity_Percent": 72,
+    "Wind_Speed_kmh": 21.2013,
+    "Precipitation_mm": 15.6459,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-27",
+    "City": "SampleCity",
+    "Temperature_C": 23.2026,
+    "Humidity_Percent": 68,
+    "Wind_Speed_kmh": 21.2478,
+    "Precipitation_mm": 1.8719,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-26",
+    "City": "SampleCity",
+    "Temperature_C": 32.3105,
+    "Humidity_Percent": 82,
+    "Wind_Speed_kmh": 20.8868,
+    "Precipitation_mm": 9.3356,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-25",
+    "City": "SampleCity",
+    "Temperature_C": 23.7859,
+    "Humidity_Percent": 41,
+    "Wind_Speed_kmh": 13.7966,
+    "Precipitation_mm": 10.2301,
+    "Weather_Condition": "Stormy"
+  },
+  {
+    "Date": "2025-03-24",
+    "City": "SampleCity",
+    "Temperature_C": 21.4154,
+    "Humidity_Percent": 44,
+    "Wind_Speed_kmh": 20.0895,
+    "Precipitation_mm": 11.9998,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-23",
+    "City": "SampleCity",
+    "Temperature_C": 33.9208,
+    "Humidity_Percent": 61,
+    "Wind_Speed_kmh": 17.5844,
+    "Precipitation_mm": 6.6565,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-22",
+    "City": "SampleCity",
+    "Temperature_C": 21.3334,
+    "Humidity_Percent": 71,
+    "Wind_Speed_kmh": 19.2036,
+    "Precipitation_mm": 9.7723,
+    "Weather_Condition": "Stormy"
+  },
+  {
+    "Date": "2025-03-21",
+    "City": "SampleCity",
+    "Temperature_C": 26.9393,
+    "Humidity_Percent": 74,
+    "Wind_Speed_kmh": 5.0125,
+    "Precipitation_mm": 19.0895,
+    "Weather_Condition": "Stormy"
+  },
+  {
+    "Date": "2025-03-20",
+    "City": "SampleCity",
+    "Temperature_C": 24.3158,
+    "Humidity_Percent": 36,
+    "Wind_Speed_kmh": 14.5063,
+    "Precipitation_mm": 9.658,
+    "Weather_Condition": "Sunny"
+  },
+  {
+    "Date": "2025-03-19",
+    "City": "SampleCity",
+    "Temperature_C": 12.5731,
+    "Humidity_Percent": 38,
+    "Wind_Speed_kmh": 9.4024,
+    "Precipitation_mm": 17.807,
+    "Weather_Condition": "Cloudy"
+  },
+  {
+    "Date": "2025-03-18",
+    "City": "SampleCity",
+    "Temperature_C": 32.4956,
+    "Humidity_Percent": 70,
+    "Wind_Speed_kmh": 12.5963,
+    "Precipitation_mm": 18.2888,
+    "Weather_Condition": "Cloudy"
+  },
+  {
+    "Date": "2025-03-17",
+    "City": "SampleCity",
+    "Temperature_C": 16.1522,
+    "Humidity_Percent": 39,
+    "Wind_Speed_kmh": 17.2554,
+    "Precipitation_mm": 12.1747,
+    "Weather_Condition": "Sunny"
+  },
+  {
+    "Date": "2025-03-16",
+    "City": "SampleCity",
+    "Temperature_C": 11.0515,
+    "Humidity_Percent": 52,
+    "Wind_Speed_kmh": 12.036,
+    "Precipitation_mm": 8.2138,
+    "Weather_Condition": "Cloudy"
+  },
+  {
+    "Date": "2025-03-15",
+    "City": "SampleCity",
+    "Temperature_C": 18.198,
+    "Humidity_Percent": 56,
+    "Wind_Speed_kmh": 7.2227,
+    "Precipitation_mm": 2.9419,
+    "Weather_Condition": "Snowy"
+  },
+  {
+    "Date": "2025-03-14",
+    "City": "SampleCity",
+    "Temperature_C": 33.8626,
+    "Humidity_Percent": 89,
+    "Wind_Speed_kmh": 9.8724,
+    "Precipitation_mm": 18.706,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-13",
+    "City": "SampleCity",
+    "Temperature_C": 32.2385,
+    "Humidity_Percent": 82,
+    "Wind_Speed_kmh": 18.3611,
+    "Precipitation_mm": 6.0246,
+    "Weather_Condition": "Cloudy"
+  },
+  {
+    "Date": "2025-03-12",
+    "City": "SampleCity",
+    "Temperature_C": 27.3201,
+    "Humidity_Percent": 36,
+    "Wind_Speed_kmh": 13.3529,
+    "Precipitation_mm": 1.2144,
+    "Weather_Condition": "Rainy"
+  },
+  {
+    "Date": "2025-03-11",
+    "City": "SampleCity",
+    "Temperature_C": 26.0127,
+    "Humidity_Percent": 82,
+    "Wind_Speed_kmh": 20.7639,
+    "Precipitation_mm": 18.9545,
+    "Weather_Condition": "Snowy"
+  },
+  {
+    "Date": "2025-03-10",
+    "City": "SampleCity",
+    "Temperature_C": 34.8567,
+    "Humidity_Percent": 56,
+    "Wind_Speed_kmh": 7.0573,
+    "Precipitation_mm": 14.4119,
+    "Weather_Condition": "Snowy"
+  },
+  {
+    "Date": "2025-03-09",
+    "City": "SampleCity",
+    "Temperature_C": 26.3926,
+    "Humidity_Percent": 61,
+    "Wind_Speed_kmh": 13.6979,
+    "Precipitation_mm": 2.8459,
+    "Weather_Condition": "Cloudy"
+  },
+  {
+    "Date": "2025-03-08",
+    "City": "SampleCity",
+    "Temperature_C": 27.7133,
+    "Humidity_Percent": 67,
+    "Wind_Speed_kmh": 24.6991,
+    "Precipitation_mm": 10.9857,
+    "Weather_Condition": "Stormy"
+  },
+  {
+    "Date": "2025-03-07",
+    "City": "SampleCity",
+    "Temperature_C": 23.6017,
+    "Humidity_Percent": 54,
+    "Wind_Speed_kmh": 22.861,
+    "Precipitation_mm": 19.0818,
+    "Weather_Condition": "Stormy"
+  },
+  {
+    "Date": "2025-03-06",
+    "City": "SampleCity",
+    "Temperature_C": 24.8536,
+    "Humidity_Percent": 63,
+    "Wind_Speed_kmh": 22.7294,
+    "Precipitation_mm": 11.7097,
+    "Weather_Condition": "Stormy"
+  },
+  {
+    "Date": "2025-03-05",
+    "City": "SampleCity",
+    "Temperature_C": 17.229,
+    "Humidity_Percent": 58,
+    "Wind_Speed_kmh": 8.5011,
+    "Precipitation_mm": 8.0902,
+    "Weather_Condition": "Snowy"
+  },
+  {
+    "Date": "2025-03-04",
+    "City": "SampleCity",
+    "Temperature_C": 13.6778,
+    "Humidity_Percent": 34,
+    "Wind_Speed_kmh": 7.6139,
+    "Precipitation_mm": 12.9579,
+    "Weather_Condition": "Cloudy"
+  }
+]

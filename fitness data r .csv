@@ -1,0 +1,21 @@
+User_ID,Name,Age,Gender,Daily_Steps,Calories_Burned,Workout_Type,Workout_Duration (mins),Heart_Rate
+1,harish,56,Female,12998,545,Strength Training,28,158
+2,ragav,46,Female,3189,764,Strength Training,20,103
+3,irfan,32,Female,5734,539,HIIT,27,163
+4,kazir,25,Male,6005,291,HIIT,82,145
+5,bhuvanesh,38,Male,7658,566,Cardio,30,150
+6,vijay,56,Female,4899,654,Cycling,27,94
+7,pavishnu,36,Female,10734,627,Cycling,54,124
+8,nithi,40,Female,4267,708,Strength Training,54,158
+9,varsha,28,Male,4528,234,Cycling,52,160
+10,brundha,28,Female,14394,405,Strength Training,24,106
+11,deiva,41,Male,6556,280,Cardio,60,137
+12,swetha,53,Male,6890,761,HIIT,47,62
+13,chaaru,57,Male,11838,587,HIIT,26,60
+14,sanmika,41,Male,14080,201,HIIT,31,64
+15,divya,20,Male,8393,589,Cycling,53,149
+16,pooja,39,Female,13627,765,Cardio,52,178
+17,pandiyan,19,Female,11792,305,Cycling,67,73
+18,saravana,41,Female,13555,676,Cycling,42,162
+19,thennarasi,47,Female,13253,601,Cardio,81,86
+20,dhaksha,55,Female,11433,755,Cardio,56,68
